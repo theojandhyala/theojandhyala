@@ -4,6 +4,8 @@
 
 I'm the creator of **Cast, DEADSET, Reclaim and LifeScore**. I build mobile products around fishing, strength training, recovery and everyday habits, taking ideas through product design, development, testing and release preparation.
 
+[My apps and creator portfolio](https://castfishingapp.com/creator/theo-jandhyala)
+
 ## Apps I've created
 
 | App | What it does | Explore |
