@@ -4,8 +4,6 @@
 
 I'm the creator of **Cast, DEADSET, Reclaim and LifeScore**. I build mobile products around fishing, strength training, recovery and everyday habits, taking ideas through product design, development, testing and release preparation.
 
-[My apps and creator portfolio](https://theojandhyala.github.io/theojandhyala/)
-
 [Who is Theo Jandhyala? — Full app portfolio](https://theojandhyala.github.io/theojandhyala/)
 
 ## Apps I've created
@@ -24,3 +22,23 @@ My projects use **Swift, SwiftUI, TypeScript, React, Next.js and Capacitor**. My
 [Connect with me on LinkedIn](https://www.linkedin.com/in/theo-jandhyala/).
 
 *Creator credit refers to my work on these products; App Store publisher accounts may use a different legal name.*
+
+## More about my work
+
+### Cast
+
+Explore waters, consult available weather and tides, keep a photo catch journal and record fishing sessions. Angler profiles and community features connect the personal log with the wider fishing experience. An on-device fish identification key uses field marks rather than an AI image classifier.
+
+### DEADSET
+
+Build a training programme, record sets, reps and weights, follow personal records and review progress over time. The product combines the individual workout log with programmes and social challenges.
+
+### Reclaim
+
+Use private check-ins, coping practices, personal plans and progress reflection alongside short calming interactive activities. The development project includes accessibility and reduced-motion options. Reclaim is a personal support tool; this portfolio does not claim that it diagnoses or treats a medical condition.
+
+### LifeScore
+
+Bring fitness, sleep, focus, nutrition and discipline into one view. Daily routines and habit tracking support progress reflection, with on-device scoring and optional Apple Health integration. LifeScore is a native iOS development project in release preparation.
+
+[Product notes and creator questions](https://theojandhyala.github.io/theojandhyala/#project-notes)
